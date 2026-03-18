@@ -1,0 +1,30 @@
+{
+  "input": {
+    "raw_sections": [
+      "John Doe",
+      "Email: johndoe@example.com",
+      "Education: BSc Computer Science, 2018 - 2022"
+    ],
+    "heuristics": {
+      "emails": ["johndoe@example.com"],
+      "phones": [],
+      "dates": ["2018", "2022"]
+    }
+  },
+  "expected_output": {
+    "personal_information": {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": null
+    },
+    "education": [
+      {
+        "degree": "BSc Computer Science",
+        "start_date": "2018-01-01",
+        "end_date": "2022-01-01"
+      }
+    ]
+  }
+}
+
+

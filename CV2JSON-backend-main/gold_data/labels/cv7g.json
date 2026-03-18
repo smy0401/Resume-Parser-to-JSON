@@ -1,0 +1,55 @@
+{
+  "contacts": {
+    "email": "ktouqeer256@gmail.com",
+    "phone": "0315-2809359",
+    "linkedin": "",
+    "github": "",
+    "address": "Flat # 2, Landhi Fire Station, Karachi"
+  },
+  "skills": [
+    "Python",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Power BI",
+    "MySQL",
+    "Scikit-learn",
+    "NLTK"
+  ],
+  "experience": [
+    {
+      "company": "",
+      "role": "",
+      "start_date": "",
+      "end_date": ""
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Karachi",
+      "degree": "Bachelors in Software Engineering",
+      "graduation_date": "2025-12"
+    },
+    {
+      "school": "Govt. College for Men Nazimabad",
+      "degree": "Intermediate in Pre-Engineering",
+      "graduation_date": "2021"
+    },
+    {
+      "school": "Garrison Grammar School",
+      "degree": "Matriculation in Science",
+      "graduation_date": "2019"
+    }
+  ],
+  "projects": [
+    {
+      "name": "User-Generated Review Analysis System",
+      "description": "Developed a system to analyze and classify user reviews using NLP and Machine Learning. Leveraged Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and NLTK for data preprocessing and model building. Implemented text preprocessing techniques like tokenization, stopword removal, and TF-IDF vectorization. Built a sentiment analysis model to classify reviews as positive or negative, and extracted key insights through keyword and phrase analysis."
+    },
+    {
+      "name": "E-commerce Data Analysis",
+      "description": "Analyzed e-commerce sales data to identify trends in revenue, customer behavior, and product performance. Cleaned and transformed data using Pandas and SQL; created visualizations in Power BI. Designed an interactive Power BI dashboard with dynamic filters for category, region, and time periods. Provided actionable insights to improve sales strategy and inventory planning."
+    }
+  ]
+}

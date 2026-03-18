@@ -1,0 +1,76 @@
+{
+  "contacts": {
+    "email": "hammadhaider96@hotmail.com",
+    "phone": "+92 333-3011169",
+    "linkedin": "",
+    "github": "",
+    "address": "House A-664, Block 12, F.B Area, Gulberg, Karachi"
+  },
+  "skills": [
+    "Software Testing",
+    "Applications Testing",
+    "Website Testing",
+    "Automation Testing",
+    "Load Testing",
+    "UI Testing",
+    "Cross-Browser Testing",
+    "Smoke Testing",
+    "Regression Testing",
+    "Functional Testing"
+  ],
+  "experience": [
+    {
+      "company": "Lucky Motor Corporation (LMC)",
+      "role": "SQA Analyst",
+      "start_date": "2025-02",
+      "end_date": "2025-04"
+    },
+    {
+      "company": "Next Generation Innovations",
+      "role": "Applications QA Engineer & Project Coordinator",
+      "start_date": "2024-04",
+      "end_date": "2025-02"
+    },
+    {
+      "company": "Next Generation Innovations",
+      "role": "Applications QA Engineer & Project Coordinator",
+      "start_date": "2020-10",
+      "end_date": "2023-06"
+    },
+    {
+      "company": "Salsoft Technologies",
+      "role": "Jr. Software QA Executive",
+      "start_date": "2019-09",
+      "end_date": "2020-10"
+    },
+    {
+      "company": "Amaxza Digital",
+      "role": "Jr. Software QA Engineer",
+      "start_date": "2019-02",
+      "end_date": "2019-08"
+    }
+  ],
+  "education": [
+    {
+      "school": "NED University of Engineering and Technology",
+      "degree": "B.E. in Software Engineering",
+      "graduation_date": "2018-01"
+    },
+    {
+      "school": "Govt. Boys Degree College",
+      "degree": "Intermediate (Pre-Engineering)",
+      "graduation_date": "2014-01"
+    },
+    {
+      "school": "Sunbeams Grammar School",
+      "degree": "Matriculation (Science)",
+      "graduation_date": "2012-01"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Statistical Analysis on Cricket Player Performances",
+      "description": "Developed algorithms using data science techniques (multiple regression, scrapers, dashboards) to generate player performance ratings. Built interactive visualizations using Shiny Dashboard UI."
+    }
+  ]
+}

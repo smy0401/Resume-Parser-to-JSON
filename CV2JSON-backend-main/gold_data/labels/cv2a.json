@@ -1,0 +1,55 @@
+{
+  "contacts": {
+    "email": "musmanmahar5312@gmail.com",
+    "phone": "923058315292",
+    "linkedin": "www.linkedin.com/in/muhammad-usman",
+    "github": "github.com/mhusman123",
+    "address": "Karachi, Pak"
+  },
+  "skills": [
+    "Python",
+    "JavaScript",
+    "HTML/CSS"
+  ],
+  "experience": [
+    {
+      "company": "ITSOLERA",
+      "role": "ML Intern",
+      "start_date": "2024-07",
+      "end_date": "2024-10"
+    },
+    {
+      "company": "ITSOLERA",
+      "role": "ML Intern",
+      "start_date": "2025-02",
+      "end_date": "2025-07"
+    },
+    {
+      "company": "ITSOLERA",
+      "role": "Data science Intern",
+      "start_date": "2025-07",
+      "end_date": "2025-09"
+    }
+  ],
+  "education": [
+    {
+      "school": "University Of Sindh",
+      "degree": "Bachelor of Computer Science",
+      "graduation_date": "2026-01"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Predicting Students Career Aspirations Using Machine Learning",
+      "description": "Engineered ML models on academic and personal datasets, employing feature engineering and EDA, optimized Random Forest achieving 80% accuracy with integrated career recommendation system."
+    },
+    {
+      "name": "Customer Segmentation with K-Means Clustering",
+      "description": "Executed clustering on behavioral and demographic data, leveraging EDA and cluster validation (Elbow, Silhouette) to derive actionable marketing insights."
+    },
+    {
+      "name": "Web Scraping & Data Extraction - Borjan E-commerce",
+      "description": "Implemented automated Python scraper with BeautifulSoup and Requests to extract structured product datasets, streamlining data pipelines for downstream analysis."
+    }
+  ]
+}

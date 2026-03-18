@@ -1,0 +1,58 @@
+{
+  "contacts": {
+    "email": "babarrj854@gmail.com",
+    "phone": "92 332-1138116",
+    "linkedin": "https://www.linkedin.com/in/babar854",
+    "github": "https://github.com/BABArrrrr",
+    "address": "Karachi"
+  },
+  "skills": [
+    "React JS",
+    "Next JS",
+    "HTML/CSS",
+    "JavaScript",
+    "Python",
+    "SQL",
+    "Scikit-learn",
+    "Pandas",
+    "NumPy",
+    "TensorFlow",
+    "LangChain"
+  ],
+  "experience": [
+    {
+      "company": "QAVI TECH",
+      "role": "Front-End Developer Intern",
+      "start_date": "2024-03",
+      "end_date": "2024-04"
+    },
+    {
+      "company": "CRESCENTIC DIGITAL",
+      "role": "Front-End Developer Intern",
+      "start_date": "2023-08",
+      "end_date": "2023-09"
+    }
+  ],
+  "education": [
+    {
+      "school": "NED University of Engineering & Technology",
+      "degree": "Bachelor of Science in Computer Science",
+      "graduation_date": "2025"
+    },
+    {
+      "school": "Govt. Islamia Science College",
+      "degree": "Intermediate in Pre-Engineering",
+      "graduation_date": "2021-09"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Final Year Project - AI-Powered Job Recommendation System",
+      "description": "Contributed to a job recommendation website built with the MERN stack. Designed and implemented the AI/ML pipeline using large language models and vector search. Encoded user profiles using Sentence Transformer (all-MiniLM-L6-v2) and stored them in FAISS with real-time MongoDB integration. Developed a hybrid recommendation algorithm combining TF-IDF and Doc2Vec for improved job-candidate matching. Built an AI-powered resume analyzer using the Google Gemini API, applying prompt engineering to extract key candidate insights."
+    },
+    {
+      "name": "Google Gemini Integration",
+      "description": "Created a web-based conversational AI assistant using React and the Google Gemini API. Designed a user interface similar to Google Gemini for chat-based interactions."
+    }
+  ]
+}

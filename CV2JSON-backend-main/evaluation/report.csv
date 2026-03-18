@@ -1,0 +1,11 @@
+file,precision_contacts,recall_contacts,date_accuracy,company_role_accuracy,education,experience,skills
+cv11h.json,0,0.0,0.0,0.0,0,1,1
+cv13j.json,0,0.0,0.0,0.0,0,1,1
+cv16i.json,0,0.0,0.0,0.0,0,1,1
+cv23c.json,0,0.0,0.0,0.0,0,1,1
+cv25d.json,0,0.0,0.0,0.0,0,1,1
+cv27e.json,0,0.0,0.0,0.0,0,1,1
+cv2a.json,0,0.0,0.0,0.0,0,1,1
+cv30f.json,0,0.0,0.0,0.0,0,1,1
+cv3b.json,0,0.0,0.0,0.0,0,1,1
+cv7g.json,0,0.0,0.0,1.0,0,1,1

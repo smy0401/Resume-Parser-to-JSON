@@ -1,0 +1,104 @@
+{
+  "contacts": {
+    "email": "sardar.khan299@gmail.com",
+    "phone": "+92 336-3929464",
+    "linkedin": "https://www.linkedin.com/in/sardar-khan-a59319122/",
+    "github": "https://github.com/SardarKhan299",
+    "address": "House No. P-1330, Kartarpura, Rawalpindi, Pakistan"
+  },
+  "skills": [
+    "Android",
+    "Java",
+    "Kotlin",
+    "Room / Realm",
+    "SQLite",
+    "JSON",
+    "REST API",
+    "Android SDK / NDK",
+    "OOP",
+    "Google APIs",
+    "Unit Testing",
+    "SourceTree / Git"
+  ],
+  "experience": [
+    {
+      "company": "Stella Technology",
+      "role": "Senior Android Developer",
+      "start_date": "2021-01",
+      "end_date": "Present"
+    },
+    {
+      "company": "Tapcheck",
+      "role": "Senior Android Developer",
+      "start_date": "2019-07",
+      "end_date": "2021-01"
+    },
+    {
+      "company": "Moftak Solutions",
+      "role": "Android Developer",
+      "start_date": "2017-06",
+      "end_date": "2019-07"
+    },
+    {
+      "company": "Niku Solutions",
+      "role": "Android Developer",
+      "start_date": "2017-03",
+      "end_date": "2017-05"
+    },
+    {
+      "company": "Jolta Technologies (Pvt) Ltd",
+      "role": "Android Developer",
+      "start_date": "2016-12",
+      "end_date": "2017-02"
+    },
+    {
+      "company": "Ranglerz Digital Marketing",
+      "role": "Android Developer",
+      "start_date": "2015-08",
+      "end_date": "2016-11"
+    }
+  ],
+  "education": [
+    {
+      "school": "PMAS Arid Agriculture University, Rawalpindi",
+      "degree": "BSCS",
+      "graduation_date": "2014-06"
+    },
+    {
+      "school": "Indus Group of Colleges, Rawalpindi",
+      "degree": "ICS",
+      "graduation_date": "2010"
+    },
+    {
+      "school": "Manaar Public School, Rawalpindi",
+      "degree": "Matric",
+      "graduation_date": "2008"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Equinox App",
+      "description": "A Tele-Medicine and Clinical Care Network that enables patients to consult doctors via video calls and create appointments for both in-person and tele-medicine examinations."
+    },
+    {
+      "name": "Tapcheck App",
+      "description": "An employer-sponsored financial wellness program. Employees can check with their employer’s eligibility before using the app."
+    },
+    {
+      "name": "Automate",
+      "description": "An IoT-based solution company connecting the physical world with the internet through smart automation."
+    },
+    {
+      "name": "Prayer Detector",
+      "description": "A machine learning project that detects prayer positions (rakaats) using sensor data and TensorFlow. Model trained on datasets of different prayer positions and deployed on Android."
+    },
+    {
+      "name": "Inspection App",
+      "description": "Allows property addition and inspection management, covering various house areas like bedrooms, washrooms, garages, and kitchens."
+    },
+    {
+      "name": "Oldy Baba App",
+      "description": "A face-aging Android app that lets users age themselves, add glasses, beards, moles, and more for fun photo transformations."
+    }
+  ]
+}

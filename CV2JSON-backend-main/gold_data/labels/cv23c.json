@@ -1,0 +1,69 @@
+{
+  "contacts": {
+    "email": "rajausman127official@gmail.com",
+    "phone": "+92 306-5575313",
+    "linkedin": "https://www.linkedin.com/in/usman-ghani-raja-429b8b121/",
+    "github": "https://github.com/usmanghani-em",
+    "address": "Gujar Khan, Rawalpindi, Pakistan"
+  },
+  "skills": [
+    "JavaScript (ES6)",
+    "TypeScript",
+    "React Native",
+    "Redux",
+    "React Context API",
+    "MobX State Tree",
+    "Jest",
+    "Fastlane",
+    "Detox",
+    "Class-Based Components",
+    "Functional Components",
+    "React Hooks",
+    "styled-components",
+    "Moment.js",
+    "Day.js",
+    "Git",
+    "REST",
+    "GraphQL",
+    "Firebase"
+  ],
+  "experience": [
+    {
+      "company": "emumba",
+      "role": "Software Engineer",
+      "start_date": "2023-02",
+      "end_date": "Present"
+    },
+    {
+      "company": "iBlinkNext",
+      "role": "Software Engineer",
+      "start_date": "2021-11",
+      "end_date": "2022-02"
+    },
+    {
+      "company": "Protovoid Technologies",
+      "role": "React Native Developer",
+      "start_date": "2021-01",
+      "end_date": "2021-11"
+    },
+    {
+      "company": "bitSol Technologies",
+      "role": "React Native Engineer",
+      "start_date": "2019-01",
+      "end_date": "2021-11"
+    }
+  ],
+  "education": [
+    {
+      "school": "FAST National University of Computer & Emerging Sciences, Islamabad",
+      "degree": "Bachelor of Science in Computer Science",
+      "graduation_date": "2019-06"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": ""
+    }
+  ]
+}

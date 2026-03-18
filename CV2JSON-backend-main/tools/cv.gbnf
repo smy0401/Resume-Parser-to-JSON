@@ -1,0 +1,18 @@
+root ::= object
+
+object ::= "{" ws details "," ws contact "," ws experience "," ws education "," ws skills "," ws projects "," ws meta ws "}"
+
+details ::= "\"details\"" ws ":" ws "{" ws "\"name\"" ws ":" ws string "," ws "\"title\"" ws ":" ws string ws "}"
+contact ::= "\"contact\"" ws ":" ws "{" ws "\"email\"" ws ":" ws string "," ws "\"phone\"" ws ":" ws string ws "}"
+experience ::= "\"experience\"" ws ":" ws "[" ws (job (ws "," ws job)*)? ws "]"
+education ::= "\"education\"" ws ":" ws "[" ws (school (ws "," ws school)*)? ws "]"
+skills ::= "\"skills\"" ws ":" ws "[" ws (string (ws "," ws string)*)? ws "]"
+projects ::= "\"projects\"" ws ":" ws "[" ws (project (ws "," ws project)*)? ws "]"
+meta ::= "\"meta\"" ws ":" ws "{" ws "\"generated_at\"" ws ":" ws string ws "}"
+
+job ::= "{" ws "\"company\"" ws ":" ws string "," ws "\"role\"" ws ":" ws string "," ws "\"years\"" ws ":" ws string ws "}"
+school ::= "{" ws "\"institution\"" ws ":" ws string "," ws "\"degree\"" ws ":" ws string "," ws "\"year\"" ws ":" ws string ws "}"
+project ::= "{" ws "\"name\"" ws ":" ws string "," ws "\"description\"" ws ":" ws string ws "}"
+
+string ::= "\"" [^"]* "\""
+ws ::= [ \t\n\r]*

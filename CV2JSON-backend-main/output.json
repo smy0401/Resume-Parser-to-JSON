@@ -1,0 +1,597 @@
+{
+  "details": {
+    "name": "Unknown",
+    "summary": "Not provided"
+  },
+  "contact": {
+    "phone": "+92 3112236686",
+    "email": "smyamanO@gmail.com"
+  },
+  "skills": [
+    "absa",
+    "advanced",
+    "ai",
+    "albased",
+    "algorithm",
+    "algortthms",
+    "ann",
+    "annotator",
+    "apr",
+    "artificial",
+    "artifkial",
+    "associates",
+    "aug",
+    "bachelors",
+    "bahria",
+    "balltree",
+    "binary",
+    "cambridge",
+    "campus",
+    "cancer",
+    "ccr",
+    "classification",
+    "colab",
+    "compier",
+    "convolutknal",
+    "coordinated",
+    "cop",
+    "coursework",
+    "cyber",
+    "data",
+    "datamining",
+    "dataset",
+    "dbms",
+    "deep",
+    "devster",
+    "documentatin",
+    "educatin",
+    "education",
+    "egmallcom",
+    "engineer",
+    "etilize",
+    "experience",
+    "experienced",
+    "facial",
+    "gfk",
+    "gihub",
+    "hamooo",
+    "hasnain",
+    "highly",
+    "hss",
+    "humaniies",
+    "hussain",
+    "hybrid",
+    "ibing",
+    "idf",
+    "image",
+    "implemented",
+    "information",
+    "intelligence",
+    "interatinal",
+    "intern",
+    "jun",
+    "jupyter",
+    "karachi",
+    "labs",
+    "languages",
+    "leam",
+    "learing",
+    "learning",
+    "likedl",
+    "machine",
+    "malaria",
+    "management",
+    "matpbtlib",
+    "may",
+    "mind",
+    "models",
+    "muhammad",
+    "muliclass",
+    "mysol",
+    "narrator",
+    "nenvorks",
+    "neural",
+    "nlp",
+    "nov",
+    "numpy",
+    "oct",
+    "operating",
+    "pandas",
+    "platter",
+    "pos",
+    "pre",
+    "private",
+    "product",
+    "professional",
+    "projects",
+    "python",
+    "ravi",
+    "recognition",
+    "remote",
+    "research",
+    "researchwork",
+    "roboflw",
+    "schooling",
+    "science",
+    "sciences",
+    "sciki",
+    "seabom",
+    "security",
+    "sep",
+    "skills",
+    "skin",
+    "snorefox",
+    "sofnvare",
+    "software",
+    "speech",
+    "srs",
+    "streamlined",
+    "strong",
+    "structures",
+    "summary",
+    "summer",
+    "swin",
+    "syed",
+    "system",
+    "systems",
+    "tanweer",
+    "technologies",
+    "tensarflow",
+    "text",
+    "textual",
+    "tf",
+    "thesis",
+    "tkket",
+    "transcrl",
+    "transformers",
+    "tts",
+    "university",
+    "unvversity",
+    "urdu",
+    "used",
+    "using",
+    "vader",
+    "visian",
+    "visionx",
+    "wahaj",
+    "websrel",
+    "yamann"
+  ],
+  "links": [],
+  "experience": [
+    {
+      "company": "Devster Labs (Remote)",
+      "position": "Data Annotator",
+      "dates": [
+        "Oct 2024",
+        "Jun 2025"
+      ],
+      "responsibilities": [
+        "Transcribed medical audio data for Snorefox app:",
+        "Streamlined project workflows, assisting on deep learning model"
+      ]
+    },
+    {
+      "company": "VisionX (Remote)",
+      "position": "Data Annotator",
+      "dates": [
+        "Apr 2025",
+        "May 2025"
+      ],
+      "responsibilities": [
+        "Data annotation using bounding boxes of multiple classes",
+        "Used Roboflow as a labeling tool and to automate the process."
+      ]
+    },
+    {
+      "company": "Hasnain Tanweer Associates",
+      "position": "Summer Intern",
+      "dates": [
+        "Jun 2023 - Sep 2023"
+      ],
+      "responsibilities": [
+        "Coordinated testing and validation, ensuring compliance with industry standards",
+        "Web software quality testing"
+      ]
+    },
+    {
+      "company": "GFK Entilize",
+      "position": "Summer Intern",
+      "dates": [
+        "Jun 2023 - Sep 2023"
+      ],
+      "responsibilities": [
+        "Ticket generation & SRS Documentation c Product Information Management Software",
+        "Research work on software engineering methodologies"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bahria University, Karachi Campus",
+      "degree": "Bachelors of Science in Artificial Intelligence",
+      "dates": [
+        "Oct 2021",
+        "Jun 2025"
+      ],
+      "coursework": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "ANN",
+        "Computer Vision",
+        "NLP",
+        "Cyber Security",
+        "COP DBMS",
+        "Data Structures & Algorithms",
+        "Operating Systems",
+        "DataMining"
+      ]
+    },
+    {
+      "institution": "Private Cambridge International Education)",
+      "degree": "A level",
+      "dates": [
+        "2018",
+        "Nov 2020"
+      ],
+      "coursework": [
+        "Humanities & Sciences"
+      ]
+    },
+    {
+      "institution": "Wahaj Hussain Schooling System (HSS)",
+      "degree": "Pre-engineering",
+      "dates": [
+        "Aug 2016 - May 2018"
+      ],
+      "coursework": []
+    }
+  ],
+  "projects": [
+    {
+      "title": "RAVI - Urdu Textual Image Narrator",
+      "description": "A web-based end-to-end application that uses OCR for Urdu printed text from images and Text-to-Speech (TTS) technology for vocalizing the extracted content."
+    },
+    {
+      "title": "ABSA",
+      "description": "Implemented ABSA using dependency parsing, POS tagging, VADER sentiment analysis, and TF-IDF feature extraction to analyze sentiment in the book."
+    },
+    {
+      "title": "Mind Platter",
+      "description": ""
+    },
+    {
+      "title": "Advanced Skin Cancer Classification",
+      "description": "Using Swin Transformers and Hybrid Deep Learning Models on HaMooo Dataset"
+    },
+    {
+      "title": "Binary & Multiclass Classification of Malaria",
+      "description": "Deep Convolutional Neural Networks"
+    },
+    {
+      "title": "Facial Recognition System",
+      "description": "Using BallTree Algorithm and K-means"
+    }
+  ],
+  "contacts": {},
+  "quality": {
+    "details": {
+      "name": "Unknown",
+      "summary": "Not provided"
+    },
+    "contact": {
+      "phone": "+92 3112236686",
+      "email": "smyamanO@gmail.com"
+    },
+    "skills": [
+      "absa",
+      "advanced",
+      "ai",
+      "albased",
+      "algorithm",
+      "algortthms",
+      "ann",
+      "annotator",
+      "apr",
+      "artificial",
+      "artifkial",
+      "associates",
+      "aug",
+      "bachelors",
+      "bahria",
+      "balltree",
+      "binary",
+      "cambridge",
+      "campus",
+      "cancer",
+      "ccr",
+      "classification",
+      "colab",
+      "compier",
+      "convolutknal",
+      "coordinated",
+      "cop",
+      "coursework",
+      "cyber",
+      "data",
+      "datamining",
+      "dataset",
+      "dbms",
+      "deep",
+      "devster",
+      "documentatin",
+      "educatin",
+      "education",
+      "egmallcom",
+      "engineer",
+      "etilize",
+      "experience",
+      "experienced",
+      "facial",
+      "gfk",
+      "gihub",
+      "hamooo",
+      "hasnain",
+      "highly",
+      "hss",
+      "humaniies",
+      "hussain",
+      "hybrid",
+      "ibing",
+      "idf",
+      "image",
+      "implemented",
+      "information",
+      "intelligence",
+      "interatinal",
+      "intern",
+      "jun",
+      "jupyter",
+      "karachi",
+      "labs",
+      "languages",
+      "leam",
+      "learing",
+      "learning",
+      "likedl",
+      "machine",
+      "malaria",
+      "management",
+      "matpbtlib",
+      "may",
+      "mind",
+      "models",
+      "muhammad",
+      "muliclass",
+      "mysol",
+      "narrator",
+      "nenvorks",
+      "neural",
+      "nlp",
+      "nov",
+      "numpy",
+      "oct",
+      "operating",
+      "pandas",
+      "platter",
+      "pos",
+      "pre",
+      "private",
+      "product",
+      "professional",
+      "projects",
+      "python",
+      "ravi",
+      "recognition",
+      "remote",
+      "research",
+      "researchwork",
+      "roboflw",
+      "schooling",
+      "science",
+      "sciences",
+      "sciki",
+      "seabom",
+      "security",
+      "sep",
+      "skills",
+      "skin",
+      "snorefox",
+      "sofnvare",
+      "software",
+      "speech",
+      "srs",
+      "streamlined",
+      "strong",
+      "structures",
+      "summary",
+      "summer",
+      "swin",
+      "syed",
+      "system",
+      "systems",
+      "tanweer",
+      "technologies",
+      "tensarflow",
+      "text",
+      "textual",
+      "tf",
+      "thesis",
+      "tkket",
+      "transcrl",
+      "transformers",
+      "tts",
+      "university",
+      "unvversity",
+      "urdu",
+      "used",
+      "using",
+      "vader",
+      "visian",
+      "visionx",
+      "wahaj",
+      "websrel",
+      "yamann"
+    ],
+    "links": [],
+    "experience": [
+      {
+        "company": "Devster Labs (Remote)",
+        "position": "Data Annotator",
+        "dates": [
+          "Oct 2024",
+          "Jun 2025"
+        ],
+        "responsibilities": [
+          "Transcribed medical audio data for Snorefox app:",
+          "Streamlined project workflows, assisting on deep learning model"
+        ]
+      },
+      {
+        "company": "VisionX (Remote)",
+        "position": "Data Annotator",
+        "dates": [
+          "Apr 2025",
+          "May 2025"
+        ],
+        "responsibilities": [
+          "Data annotation using bounding boxes of multiple classes",
+          "Used Roboflow as a labeling tool and to automate the process."
+        ]
+      },
+      {
+        "company": "Hasnain Tanweer Associates",
+        "position": "Summer Intern",
+        "dates": [
+          "Jun 2023 - Sep 2023"
+        ],
+        "responsibilities": [
+          "Coordinated testing and validation, ensuring compliance with industry standards",
+          "Web software quality testing"
+        ]
+      },
+      {
+        "company": "GFK Entilize",
+        "position": "Summer Intern",
+        "dates": [
+          "Jun 2023 - Sep 2023"
+        ],
+        "responsibilities": [
+          "Ticket generation & SRS Documentation c Product Information Management Software",
+          "Research work on software engineering methodologies"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Bahria University, Karachi Campus",
+        "degree": "Bachelors of Science in Artificial Intelligence",
+        "dates": [
+          "Oct 2021",
+          "Jun 2025"
+        ],
+        "coursework": [
+          "Artificial Intelligence",
+          "Machine Learning",
+          "Deep Learning",
+          "ANN",
+          "Computer Vision",
+          "NLP",
+          "Cyber Security",
+          "COP DBMS",
+          "Data Structures & Algorithms",
+          "Operating Systems",
+          "DataMining"
+        ]
+      },
+      {
+        "institution": "Private Cambridge International Education)",
+        "degree": "A level",
+        "dates": [
+          "2018",
+          "Nov 2020"
+        ],
+        "coursework": [
+          "Humanities & Sciences"
+        ]
+      },
+      {
+        "institution": "Wahaj Hussain Schooling System (HSS)",
+        "degree": "Pre-engineering",
+        "dates": [
+          "Aug 2016 - May 2018"
+        ],
+        "coursework": []
+      }
+    ],
+    "projects": [
+      {
+        "title": "RAVI - Urdu Textual Image Narrator",
+        "description": "A web-based end-to-end application that uses OCR for Urdu printed text from images and Text-to-Speech (TTS) technology for vocalizing the extracted content."
+      },
+      {
+        "title": "ABSA",
+        "description": "Implemented ABSA using dependency parsing, POS tagging, VADER sentiment analysis, and TF-IDF feature extraction to analyze sentiment in the book."
+      },
+      {
+        "title": "Mind Platter",
+        "description": ""
+      },
+      {
+        "title": "Advanced Skin Cancer Classification",
+        "description": "Using Swin Transformers and Hybrid Deep Learning Models on HaMooo Dataset"
+      },
+      {
+        "title": "Binary & Multiclass Classification of Malaria",
+        "description": "Deep Convolutional Neural Networks"
+      },
+      {
+        "title": "Facial Recognition System",
+        "description": "Using BallTree Algorithm and K-means"
+      }
+    ],
+    "contacts": {},
+    "final_confidence": 0.427,
+    "trace": {
+      "details": [
+        "rule_match",
+        "alpha=0.60",
+        "final=0.570"
+      ],
+      "contact": [
+        "rule_match",
+        "alpha=0.60",
+        "final=0.570"
+      ],
+      "skills": [
+        "rule_match",
+        "alpha=0.60",
+        "final=0.570"
+      ],
+      "links": [
+        "alpha=0.60",
+        "final=0.000"
+      ],
+      "experience": [
+        "rule_match",
+        "alpha=0.60",
+        "final=0.570"
+      ],
+      "education": [
+        "rule_match",
+        "alpha=0.60",
+        "final=0.570"
+      ],
+      "projects": [
+        "rule_match",
+        "alpha=0.60",
+        "final=0.570"
+      ],
+      "contacts": [
+        "alpha=0.60",
+        "final=0.000"
+      ]
+    }
+  }
+}

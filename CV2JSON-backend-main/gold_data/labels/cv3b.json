@@ -1,0 +1,54 @@
+{
+  "contacts": {
+    "email": "Hamzamehmood054@gmail.com",
+    "phone": "92 3112823179",
+    "linkedin": "",
+    "github": "",
+    "address": ""
+  },
+  "skills": [
+    "Python (Pandas, scikit-learn, Matplotlib)",
+    "MySQL Database Management",
+    "Amazon Product Research (Keepa, Helium 10)",
+    "Retail Arbitrage & FBA Workflow",
+    "Analytical Problem Solving",
+    "Client Communication",
+    "Project Coordination"
+  ],
+  "experience": [
+    {
+      "company": "Fiverr",
+      "role": "Web Developer",
+      "start_date": "2025-01",
+      "end_date": "2025-04"
+    },
+    {
+      "company": "Amazon",
+      "role": "Virtual Assistant",
+      "start_date": "2024-10",
+      "end_date": "2025-01"
+    }
+  ],
+  "education": [
+    {
+      "school": "Bahria University, Karachi Campus (BUKC)",
+      "degree": "BSc. Computer Science",
+      "graduation_date": "2026-07"
+    },
+    {
+      "school": "Cadet College Petaro (CCP)",
+      "degree": "Pre-Engineering",
+      "graduation_date": "2021-06"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SmartPOS Web Application",
+      "description": "Designed and implemented a smart POS system featuring real-time billing, inventory, and product management modules. Improved transaction efficiency and inventory tracking for small retail businesses through an intuitive, web-based interface."
+    },
+    {
+      "name": "Stock Price Prediction App",
+      "description": "Developed a stock price prediction app integrating machine learning models to forecast market trends with real-time data visualization. Enhanced decision-making for retail investors by providing predictive insights and interactive data dashboards."
+    }
+  ]
+}

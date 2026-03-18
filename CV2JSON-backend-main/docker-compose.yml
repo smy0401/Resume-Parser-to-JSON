@@ -1,0 +1,29 @@
+version: "3.9"
+
+services:
+  ollama-runtime:
+    image: ollama/ollama:latest
+    container_name: ollama-runtime
+    ports:
+      - "11434:11434"
+    volumes:
+      - ~/.ollama:/root/.ollama
+    networks:
+      - cvnet
+
+  cv2json-api:
+    build: .
+    container_name: cv2json-api
+    ports:
+      - "8000:8000"
+    environment:
+      - OLLAMA_HOST=http://ollama-runtime:11434
+    depends_on:
+      - ollama-runtime
+    networks:
+      - cvnet
+
+networks:
+  cvnet:
+    driver: bridge
+

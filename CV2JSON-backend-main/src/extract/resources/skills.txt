@@ -1,0 +1,10 @@
+python
+java
+sql
+git
+machine learning
+communication
+leadership
+reactjs
+docker
+kubernetes

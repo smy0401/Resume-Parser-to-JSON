@@ -1,0 +1,51 @@
+{
+  "contacts": {
+    "email": "arshiyanelahi84@gmail.com",
+    "phone": "+92 337-2119909",
+    "linkedin": "https://linkedin.com/in/arshiyanelahi",
+    "github": "https://github.com/Arshiyan-Elahi",
+    "address": "Gulistan-e-Johar, Karachi"
+  },
+  "skills": [
+    "Python",
+    "SQL",
+    "TensorFlow",
+    "Scikit-learn",
+    "OpenCV"
+  ],
+  "experience": [
+    {
+      "company": "DevelopersHub Corporation",
+      "role": "AI/ML Intern",
+      "start_date": "2025-03",
+      "end_date": "2025-05"
+    },
+    {
+      "company": "Fiverr",
+      "role": "Computer Vision Freelancer",
+      "start_date": "2024-01",
+      "end_date": "2024-12"
+    }
+  ],
+  "education": [
+    {
+      "school": "Sir Syed University of Engineering and Technology (SSUET), Karachi",
+      "degree": "Bachelor of Engineering in Computer Engineering",
+      "graduation_date": "2025-12"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Hand Gesture Controlled RC Car",
+      "description": "Implemented real-time gesture recognition using webcam and OpenCV to control an RC car. Integrated Arduino with HC-05 Bluetooth for motor control, enabling responsive, hands-free navigation. Tools: Python, OpenCV, Arduino, HC-05."
+    },
+    {
+      "name": "Automated Solar Panel Cleaning System",
+      "description": "Built an Arduino-based system to auto-clean panels and rotate toward sunlight using LDR sensors. Integrated ESP32 with Firebase for remote monitoring and automated cleaning triggers, improving panel efficiency and uptime."
+    },
+    {
+      "name": "Weather Prediction System (AI & IoT)",
+      "description": "Collected real-time sensor data (ESP32 + DHT11 → Firebase) and trained forecasting models using Facebook Prophet. Tuned changepoint parameters and normalized inputs to reduce drift, improving forecast accuracy by 15% over baseline."
+    }
+  ]
+}

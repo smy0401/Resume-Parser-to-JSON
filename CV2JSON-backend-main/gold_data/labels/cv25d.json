@@ -1,0 +1,63 @@
+{
+  "contacts": {
+    "email": "shahjahanmukhtar62@gmail.com",
+    "phone": "+92 311-7870710",
+    "linkedin": "https://linkedin.com/in/shahjahan-mukhtar-970958226",
+    "github": "https://github.com/Shahjahan62",
+    "address": "Lahore, Pakistan"
+  },
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React Native",
+    "React JS",
+    "Animations",
+    "User Interfaces",
+    "Git/GitHub",
+    "Firebase",
+    "Figma",
+    "Redux RTK",
+    "Integrations",
+    "Problem Solving",
+    "State Management",
+    "Debugging",
+    "Testing",
+    "Unit Testing",
+    "CSS",
+    "Tailwind CSS",
+    "HTML"
+  ],
+  "experience": [
+    {
+      "company": "Zereflab",
+      "role": "Mobile Application Developer",
+      "start_date": "2024-10",
+      "end_date": "Present"
+    },
+    {
+      "company": "Codek Technologies",
+      "role": "Mobile Application Developer",
+      "start_date": "2021-12",
+      "end_date": "2024-08"
+    },
+    {
+      "company": "Self-Learning",
+      "role": "Mobile App Developer (Independent)",
+      "start_date": "2019-09",
+      "end_date": "2021-12"
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Gujrat",
+      "degree": "Bachelor of Science in Information Technology (BS-IT)",
+      "graduation_date": "2023-09"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Auto Deployment (Final Year Project)",
+      "description": "Developed an Auto Deployment system using GitOps tools to automate the application deployment process, making it accessible to users regardless of their technical background."
+    }
+  ]
+}

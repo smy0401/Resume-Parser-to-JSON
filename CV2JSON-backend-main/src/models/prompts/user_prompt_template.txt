@@ -1,0 +1,17 @@
+[RAW_SECTIONS]
+1. {block_text}  (offset: {position})
+2. {block_text}  (offset: {position})
+...
+
+Heuristic candidates:
+- Emails: {emails}
+- Phones: {phones}
+- Dates: {date_candidates}
+
+{schema_json}
+
+Rules:
+- Use only provided text, no invention.
+- Fill missing values with null.
+- Dates must be ISO.
+- Arrays always used.

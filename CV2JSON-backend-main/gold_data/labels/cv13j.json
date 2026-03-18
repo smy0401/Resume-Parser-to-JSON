@@ -1,0 +1,62 @@
+{
+  "contacts": {
+    "email": "raoareeba196@gmail.com",
+    "phone": "+92 309-3068452",
+    "linkedin": "",
+    "github": "",
+    "address": "DHA Phase 2, Karachi"
+  },
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "DAX",
+    "SQL",
+    "MongoDB",
+    "Databases",
+    "LLMs",
+    "Docker",
+    "Leadership",
+    "Public Speaking",
+    "Crisis Management",
+    "Team Collaboration"
+  ],
+  "experience": [
+    {
+      "company": "Intrapreneur",
+      "role": "Data Science Intern",
+      "start_date": "2024-09",
+      "end_date": "2024-10"
+    },
+    {
+      "company": "ACM-W MUET",
+      "role": "Web Designer",
+      "start_date": "2022-10",
+      "end_date": "2023-10"
+    }
+  ],
+  "education": [
+    {
+      "school": "Mehran University of Engineering & Technology",
+      "degree": "Bachelor of Science in Computer Science",
+      "graduation_date": "2025-01"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mobile-Based Commodity Search & Comparison System",
+      "description": "Developed a marketplace platform enabling real-time product search, filtering by category, brand, price, and condition, with side-by-side comparison of specifications to support informed online shopping decisions."
+    },
+    {
+      "name": "Medicine Recommendation System",
+      "description": "Built a symptom-based medicine recommender using Flask and scikit-learn, achieving 90% prediction accuracy."
+    },
+    {
+      "name": "RAG-Based CSV Analyzer",
+      "description": "Designed a Retrieval-Augmented Generation (RAG) system for document analysis using N8N."
+    },
+    {
+      "name": "SpendBuddy: Expense Tracking App",
+      "description": "Developed an expense management app with real-time tracking, category-wise analysis, and interactive dashboards using JavaScript and Firebase."
+    }
+  ]
+}
